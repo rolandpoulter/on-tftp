@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/renasar/renasar-tftp",
   "dependencies": {
-    "di": "git+ssh://git@github.com/renasar/di.js.git",
+    "di": "git+ssh://git@github.com/renasar/di.js.git#emc-2015-03-16",
     "lodash": "^2.4.1",
     "tftp": "^0.1.0",
     "renasar-core": "git+ssh://git@github.com:renasar/renasar-core.git"
